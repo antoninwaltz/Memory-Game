@@ -1,0 +1,35 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   10.18.10.3855
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Antonin\Documents\Memory Game\Memory\Builds\MemoryGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.100 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.972998 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.440628 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.607926 ms (FindLiveObjects: 0.039870 ms CreateObjectMapping: 0.036712 ms MarkObjects: 0.475288 ms  DeleteObjects: 0.055266 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: d34 -> priority: 1 
+  Thread -> id: 1010 -> priority: 1 
